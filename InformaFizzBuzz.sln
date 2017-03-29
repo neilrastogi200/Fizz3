@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InformaFizzBuzz", "InformaFizzBuzz\InformaFizzBuzz.csproj", "{7F9BF2A4-CBC1-4CAB-8992-6BF6A7A275ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InformaUnitTests", "InformaUnitTests\InformaUnitTests.csproj", "{A22C6850-7AF7-4843-8AAE-3EA54A930026}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F9BF2A4-CBC1-4CAB-8992-6BF6A7A275ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F9BF2A4-CBC1-4CAB-8992-6BF6A7A275ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F9BF2A4-CBC1-4CAB-8992-6BF6A7A275ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F9BF2A4-CBC1-4CAB-8992-6BF6A7A275ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A22C6850-7AF7-4843-8AAE-3EA54A930026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A22C6850-7AF7-4843-8AAE-3EA54A930026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A22C6850-7AF7-4843-8AAE-3EA54A930026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A22C6850-7AF7-4843-8AAE-3EA54A930026}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
